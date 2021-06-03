@@ -1,0 +1,506 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Common-wealths catechism. Published to inform the good and plain people of this Common-wealth, in arms, and out of arms, and to prevent the designes of hypocritical ambition. Humbly dedicated to the members of Parliament, and their General Monck. / By Lyon Freeman.</title>
+            <author>Freeman, Lyon.</author>
+         </titleStmt>
+         <extent>Approx. 40KB of XML-encoded text transcribed from 17 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A84896</idno><idno type="EEBO-CITATION">99868600</idno>
+  <idno type="VID">170497</idno>
+  <idno type="EEBO-PROQUEST">2264212104</idno>
+  
+            <idno type="STC">Wing F2135</idno>
+            <idno type="STC">Thomason E1870_2</idno>
+            <idno type="STC">ESTC R209732</idno>
+            <idno type="PROQUEST">99868600</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99868600e"/>
+            <note>(EEBO-TCP ; phase 2, no. A84896)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 170497)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 233:E1870[2])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Common-wealths catechism. Published to inform the good and plain people of this Common-wealth, in arms, and out of arms, and to prevent the designes of hypocritical ambition. Humbly dedicated to the members of Parliament, and their General Monck. / By Lyon Freeman.</title>
+                  <author>Freeman, Lyon.</author>
+               </titleStmt>
+               <extent>[6], 26 p.   </extent>
+               <publicationStmt>
+                  <publisher>Printed by John Clowes,</publisher>
+                  <pubPlace>London, :</pubPlace>
+                  <date>1659.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Not in fact a catechism, but a satire on Parliament in catechestical form. Author's name may be a pseudonym.</note>
+                  <note>Annotation on Thomason copy: "January"; "Jan: 28.".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="corporate_name">England and Wales. --  Parliament --  Humor --  Early works to 1800.</term>
+               <term type="topical_term">Catechisms, English --  Early works to 1800.</term>
+               <term type="topical_term">Political satire, English --  17th century.</term>
+               <term type="geographic_name">Great Britain --  Politics and government --  1649-1660 --  Humor --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2013-11 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan </label>Sampled and proofread </change>
+         <change>
+            <date>2014-06 </date>
+            <label>Colm MacCrossan</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:170497:1"/>
+            <p>THE Common-Wealths CATECHISM. PUBLISHED To inform the Good and Plain People of this Common-wealth, in Arms, and out of Arms, and to prevent the Designes of <hi>Hypocritical Ambition.</hi> Humbly Dedicated to the Members of <hi>Parliament,</hi> and their General <hi>MONCK. By</hi> LYON FREEMAN.</p>
+            <p>
+               <hi>LONDON, Printed by</hi> John Clowes, 1659.</p>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170497:2"/>
+            <pb facs="tcp:170497:2"/>
+            <head>To the disperced Members <hi>Of the High Court of</hi> Parliament.</head>
+            <opener>
+               <salute>Gentlemen,</salute>
+            </opener>
+            <p>HAving for the service of the Commonwealth, composed this short Catechism, I have thought it my duty to testifie the confidence I have, that God will restore you to the exercise of your just Authority, by decicating the same unto you; Not doubting but (to speak in the Language of the faithfull Officers of your faithfull Army) when you shall be permitted to sit again, you will then confer some mark of your favour upon the Composer hereof,</p>
+            <closer>
+               <signed>
+                  <hi>Your most humble servant,</hi> Lyon Freeman.</signed>
+            </closer>
+         </div>
+         <div type="dedication">
+            <pb facs="tcp:170497:3"/>
+            <head>To the Renowned Assertor of <hi>Englands</hi> Liberties, General <hi>Monck.</hi>
+            </head>
+            <opener>
+               <salute>Noble General.</salute>
+            </opener>
+            <p>
+               <hi>THat eternal Renown that you have won, by so gallantly asserting the Liberties of this Com<g ref="char:EOLhyphen"/>mon-wealth, most highly endangered by the late disturbance of the Supreme Authority, has so far wrought upon the Composer of this Catechism, as to make him judge himseef obliged to commend the same to your worthy Patronage; wherein your ge<g ref="char:EOLhyphen"/>nerous Manhood, Fidelity, Justice, Sobriety, Con<g ref="char:EOLhyphen"/>tentation, Courage (as with a foile) are set off by the childishness, Treachery, Injustice, Pride, Aspi<g ref="char:EOLhyphen"/>ring &amp; Pusillanimity of a knot of Ambitious Cox<g ref="char:EOLhyphen"/>combs, who are sacrificing the Lawes and Liberties of these Nations, lately redeemed, at the vast ex<g ref="char:EOLhyphen"/>pence of so many Millions of Treasure, and so large an effusion of</hi> English <hi>blood to the service of their pittiful and childish lusts. Go on and prosper (No<g ref="char:EOLhyphen"/>ble Sir) God and the Prayers and endeavours of all good men go along with you; and the Generations to come shall call you blessed so long as</hi> England <hi>shall
+<pb facs="tcp:170497:3"/>continue</hi> England, <hi>and a Land of Freemen, Accept (Generous Sir) of this Testemony of Honour from</hi>
+            </p>
+            <closer>
+               <signed>Your most humble servant, LION FREEMAN.</signed>
+            </closer>
+         </div>
+         <div type="printer_to_the_reader">
+            <head>The Printer to the Reader.</head>
+            <p>FOr thy better understanding of this discourse friendly Reader, thou mayst take notice, that it was written about three weeks after the late in<g ref="char:EOLhyphen"/>terruption of this present Parliament; But the Copy being accidentally lost, when it was ready for the Press (though since in part recovered) and the Authors over great modesty, have retarded the Impression till now, especially the loss of the Co<g ref="char:EOLhyphen"/>py considered. But importunity of friends have extorted this for thy service. Farwell and enjoy it.</p>
+         </div>
+      </front>
+      <body>
+         <div type="satirical_catechism">
+            <pb facs="tcp:170497:4"/>
+            <pb facs="tcp:170497:4"/>
+            <head>The Common-wealths Catechisme.</head>
+            <p>Q. <hi>WHo Rules now?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ambition.</p>
+            <p>Qu. <hi>How is Ambition cloathed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He weares a Sword by his side, and on his back a long Cloak, made of State-Knavery lined throughout with Hypocrisie, and richly faced with Religion.</p>
+            <p>Qu. <hi>What would Ambition have?</hi>
+            </p>
+            <p>
+               <hi>A. White-hall</hi> for his City-house, <hi>Hampton-Court</hi> for his Countrey-house, <hi>Sommerset-house</hi> for his Wife, and St. <hi>Jameses</hi> to be the Nursery for his Children; And command of the Peoples pur<g ref="char:EOLhyphen"/>ses to maintain his Heathenish Pomp.</p>
+            <p>Qu. <hi>What made Ambition stop the Parliament at this time?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> His fear lest those fine things should be sold, as the Parliament Voted they should speedily be, towards the Souldiers and Seamens Arrears.</p>
+            <pb n="2" facs="tcp:170497:5"/>
+            <p>Q. <hi>Is this all that Ambition aims at?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, He is for co-ordinate Senates, and Pro<g ref="char:EOLhyphen"/>tectorships, (saving your presence) Dukeships, Lordships, Guards, Lackeys, Halberdiers, Gentle<g ref="char:EOLhyphen"/>men-Ushers, Grooms of the Bed-Chamber, and Close-stool; Gentlemen of the Horses and the Asses, and a thousand whimwhams more.</p>
+            <p>Q. <hi>By your speech, Ambition is a silly fellow, to covet such toys, nor can he be a good Christian, who in his Baptism renounc'd the Pomps and Vani<g ref="char:EOLhyphen"/>ties of the world, Can such a silly fellow mannage this mighty Common-wealth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. He will ruine himself undoubtedly, &amp; much impoverish and dishonour the Common<g ref="char:EOLhyphen"/>wealth, and totally destroy the same, if God pre<g ref="char:EOLhyphen"/>vent not.</p>
+            <p>Q. <hi>Why was this Common-wealth more Potent and successful in the Government of our present Parliament then when Ambition governed?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because our Parliament is a solid grave As<g ref="char:EOLhyphen"/>sembly of men, whose wits are not distracted with ambitious toyes, titles and those other foolish whimwhams aforesaid.</p>
+            <p>Q. <hi>Are not all Nations more Potent and Rich, where sober and serious men, not incombred or de<g ref="char:EOLhyphen"/>bauched with Toys, Titles and Trappings do Go<g ref="char:EOLhyphen"/>verne: then those that are governed by titular fine things, end ambitious, capricious Coxcombs, that love such baubles?</hi>
+            </p>
+            <pb n="3" facs="tcp:170497:5"/>
+            <p>
+               <hi>A.</hi> Yes, For the Reasons aforesaid.</p>
+            <p>Q. <hi>Give an example hereof?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The united Provinces.</p>
+            <p>Q. <hi>Are not those of their ruleing Assemblies called</hi> Lords?</p>
+            <p>
+               <hi>A.</hi> No, They have no other title then what is given to all men of indifferent fashion, import<g ref="char:EOLhyphen"/>ing the sense of our term Master, which in civilitie we give to any man, that is not in rage.</p>
+            <p>Q. <hi>Does not</hi> Heere <hi>signifie Lord?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, It signifies no more then Master, and comes from the Latine word <hi>Herus</hi> that signifies the same, and so the Dutch use it to any man whom in English they would call Sir or Master.</p>
+            <p>Q. <hi>How are the Members of the Supreme As<g ref="char:EOLhyphen"/>semblies of</hi> Switzerland <hi>called?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> After the same manner.</p>
+            <p>Q. <hi>Doe you believe that the people of the Low-Countries, and</hi> Switzers, <hi>and such like Cantons are more rich then those of</hi> France <hi>and</hi> Spain <hi>and more potent?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, Allowing for the different greatnes, and natural advantages of the Countries.</p>
+            <p>Q. <hi>How can this be?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because the little that the Low-Countrys &amp; <hi>Switzerland</hi> afford is more equally distributed a<g ref="char:EOLhyphen"/>mong the inhabitants, &amp; the abundance of <hi>France</hi> &amp; <hi>Spain</hi> is suckt up &amp; drawn from the pined bodys of those Nations to nourish the titular fine things,
+<pb n="4" facs="tcp:170497:6"/>which are like Wems and Warts, and over grown splenes and livers in the bodie natural: So that those Nations are truly poor, though the Coun<g ref="char:EOLhyphen"/>tries be large and fertile, <hi>France</hi> especially.</p>
+            <p>Q. <hi>But how can you shew the truth hereof as to power?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In <hi>Holland</hi> and <hi>Switzerland</hi> and where ever grave assemblies Govern the Common<g ref="char:EOLhyphen"/>wealth, there is little Luxurie and debaucherie which naturall usually flow from Titular <hi>Fine things;</hi> And therefore the people are more stout, resolute, lesse effeminate and greater lovers of Liberties, and will fight more stout<g ref="char:EOLhyphen"/>ly.</p>
+            <p>Q. <hi>Did not this reason hold in the Parliaments Armie compared to the Kings?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, Lords, Dukes, Earls, could not mount on Horse back so readily as plain men, so that the Earl of <hi>Holland</hi> (as the report went) was taken in his quarters trimming and perfuming his Haire. Also the private Souldiers were court<g ref="char:EOLhyphen"/>ing their Mistresses, and drinking their Master the Kings health, when they should have bin looking to their horses, or reading discourses to the people where they lay, for the advancement of their cause, which was the Parliament Soul<g ref="char:EOLhyphen"/>diers cause; In a word, swearing, drinking, mistressing, complementing, and relateing their Pedigrees and Gentilities, and other Lordly qua<g ref="char:EOLhyphen"/>lities
+<pb n="5" facs="tcp:170497:6"/>did so effeminate and direct the wits and weaken the bodies of the Royallists, that they were no match for the Parliaments Army.</p>
+            <p>Q. <hi>Then you conceive if they had arunk lesse, and fought more for the Kings health, and had not bin Lordified they had bin wiser, stouter, and more successfull?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I doe.</p>
+            <p>Q. <hi>But to come to our former subject, who supports Ambition who you say now rules all the reast?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Lucifer and some of the by him deluded common Souldiers and religious people of several perswasions, whom he inchants with his brave cloak aforesaid.</p>
+            <p>Q. <hi>What does he promise and pretend to draw them in?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> To the common people he promises liberty to exercise their Religion publickly, and to the ringleaders of Congregations, he promises places and offices in the Army and Gommon-wealth, as to be Colonels, Captaines, Majors, <hi>&amp;c.</hi> Ex<g ref="char:EOLhyphen"/>cise-men, Custom-house-men, <hi>&amp;c.</hi> and to let them bring in unlicenc'd goods. And he tells them the Parliament would have taken away li<g ref="char:EOLhyphen"/>berty of conscience, and would not give places and offices to the Godly party.</p>
+            <p>Q. <hi>VVhat does Ambition more particularly pretend?</hi>
+            </p>
+            <pb n="6" facs="tcp:170497:7"/>
+            <p>
+               <hi>A.</hi> To be exceedingly grieved and angred at the Parliament for taking Commissions from good and Godly Commanders.</p>
+            <p>Q. <hi>VVhere was Ambition with his resentment and indignation when</hi> Oliver Cromwel <hi>took Com<g ref="char:EOLhyphen"/>missions from</hi> Rich, Overton, Allured, Okey <hi>aend divers other godly eminent Officers of the Army. Why was he not then in the heat of his zeal? And when the old Fox</hi> O. Cromwel <hi>aforesaid, skim'd of the Cream of the common Souldiers that had enga<g ref="char:EOLhyphen"/>ged in the Good Old Cause, that there might be none to remember him of his Promises of Liberty,</hi> &amp;c. <hi>when he drew them out to fight, as at</hi> Worce<g ref="char:EOLhyphen"/>ster <hi>and other places? Where was Ambition with his zeal at those times? Where was he when some were Indicted at the</hi> Old-Bayly <hi>for their lives, and when the Law could not hurt them, arbitrarily and illegally banished into barbarous Islands, to pine a<g ref="char:EOLhyphen"/>way in obscurity &amp; solitude, when others were whip<g ref="char:EOLhyphen"/>ped, bored through the Tongue, branded in the fore<g ref="char:EOLhyphen"/>head, for Opinions in Religion, and only to make a Party for the late Tyrant amongst persecuting Spirits? Where was Ambition when divers persons of quality, Merchants Gentlemen &amp; Divines, were sold to the</hi> Barbado's <hi>for slaves, most inhumanly, yea more then Turkishly abused, because according to their understanding, they favoured the Kings Inte<g ref="char:EOLhyphen"/>rest, though divers of them (at least) had not been in actual Arms against the Common-wealth, as ap<g ref="char:EOLhyphen"/>pears
+<pb n="7" facs="tcp:170497:7"/>by a Petition presented by</hi> Marcellus Rivers, <hi>and others to the Parliament (so called) in Protector</hi> Richard <hi>his Reign. Where was Ambition when the</hi> Quakers <hi>(so called) were imprisoned by hundreds, in several Countreys, being a just innocent People, that wrong no body? Where was zealous and Re<g ref="char:EOLhyphen"/>igious Ambition when these attempts were made against Religious People, and against common Li<g ref="char:EOLhyphen"/>berty?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He was then intoxicated with the Court Wine ar <hi>White-hall,</hi> and dreaming who should be Protector when great <hi>O.</hi> died. Also his fancy was taken up with many pretty fine toys, Titles, Offi<g ref="char:EOLhyphen"/>ces and Ceremonies, which lull'd him into a slum<g ref="char:EOLhyphen"/>ber.</p>
+            <p>Q. <hi>Did not our Honourable Parliament now in being, restore their Commissions to the Religious Officers aforesaid, and free persons imprisoned for Opinions all the Nation over?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Ves.</p>
+            <p>Q. <hi>Would Ambition (is it like) bave freed them from prison, restored them to their own Commands, whom he stood still and saw put out of Command, and into prison.</hi>
+            </p>
+            <p>A. It is very unlikely, and the Parliament had somewhat to do to perswade Ambition to be con<g ref="char:EOLhyphen"/>tent, that the worthy Commanders afforesaid should have their Commissions again.</p>
+            <pb n="8" facs="tcp:170497:8"/>
+            <p>Q. <hi>Why then does Ambition say, the Parlia<g ref="char:EOLhyphen"/>ment are for persecution, and he only for Liberty of Conscience?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because he is drunk with imagination of the fine Houses, bawbles and toyes aforesaid, and desire to command the Peoples purses, <hi>&amp;c.</hi> knows, not what he says. Also by this pretence he hopes to have the religious Souldiers and people do his drudgery for him?</p>
+            <p>Y. <hi>Is he like to attain his ends of them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No. God has open'd their eys by the dea<g ref="char:EOLhyphen"/>ling of the late Protectors, and of Ambition him<g ref="char:EOLhyphen"/>self, during their Reigns, so that they will trust them no more.</p>
+            <p>Q. <hi>What was that dealing of the late Protector and his Son?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> A secreet endeavour with an high hand to set up a National Religion, and leasurely and craf<g ref="char:EOLhyphen"/>tely to suppress all other petswasions.</p>
+            <p>Q. <hi>VVhat should move him to do that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because an usurped Government cannot be otherwise long supported.</p>
+            <p>Q. <hi>But might not Ambition be happy without these fine toyes, and bawbles aforesaid, which he so gapes and reaches after, and to attain which he now hazards the safety and very beeing of this Com<g ref="char:EOLhyphen"/>mon-wealth, himself and posterity?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, very happy were he so wise as to know it, and so sober and serious as to lay it to heart.</p>
+            <pb n="9" facs="tcp:170497:8"/>
+            <p>Q. <hi>Can he be happy under the enjoyment of those fine things aforesaid?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No, but he will be really very answerable as old <hi>Oliver</hi> was, and his Son would have been, had his vain State continued.</p>
+            <p>Q. <hi>VVherein did that misery of old</hi> Oliver <hi>consist?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> In a continual disquieting and vexatious itch of climbing higher and higher, in regret of his understanding and torment of conscience, for his Apostacy, perfidiousness, Covenant breaking, deluding and trapanning three Nations; in vexa<g ref="char:EOLhyphen"/>tion of mind, arising from the upbraidings of stout persons before his face, and behind his back; in Speeches, Sermons, printed Books and Treatises, such as <hi>Killing no Murther,</hi> and divers others pub<g ref="char:EOLhyphen"/>lished by the fifth Monarchy men, with their in<g ref="char:EOLhyphen"/>fective Sermons, fear of his life, care of what would become of his posterity, and how he might leave them possessed of his imaginary happyness; care of his name and reputation abroad and at home, at present and to posterity, which he foresaw would sink, the affairs of the three Nations leading his mind, and a thousand other things, which brought him to an untimely death, in great horrour of con<g ref="char:EOLhyphen"/>science.</p>
+            <p>Q. <hi>Did not old</hi> Oliver <hi>think himself a jolly fellow, and a happy under the enjoyment of his baw<g ref="char:EOLhyphen"/>bles, and does not Ambition think he shall be happy if he can enjoy the like?</hi>
+            </p>
+            <pb n="10" facs="tcp:170497:9"/>
+            <p>
+               <hi>A.</hi> Yes. And so do maungy persons think them<g ref="char:EOLhyphen"/>selves happy when they are clawed, and Feaverish people when they drink their their Bellies full of cold drink, and Girles that have the Green-sicknes when they are eating Oat-meale, Small-coals, Chalk Loam-walls, Linsey-woolsey aprons, and such like trash and trumpery.</p>
+            <p>Q. <hi>Can a man be really miserable, and think him<g ref="char:EOLhyphen"/>self happy?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes; you may see some in Bedlam, that lye on the ground from years end to years end, and it may be in chains, who think themselves the happyest persons in the world.</p>
+            <p>Q. <hi>Has not Ambition many Heads?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <p>Q. <hi>How can all their Mouths hope to be stopped?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By a Co-ordinate Senate for Life.</p>
+            <p>Q. <hi>What is that?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> An House of Lords with a new Name.</p>
+            <p>Q. <hi>What if the Parliament should give way to such a Senate?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They should traiterously break their Faith to the people as that Mock-Parliament did who when they should have been asserting the Libertys of the Nation, &amp; providing that Trade might flou<g ref="char:EOLhyphen"/>rish, and the peoples poverty be holpen, they set up new Lords over them of the basest Mechanicks.</p>
+            <p>Q. <hi>Cannot Ambition be cured of this vain and disquieting itch?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes.</p>
+            <pb n="11" facs="tcp:170497:9"/>
+            <p>Q. <hi>How may he be cured?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> He must be shut up in a secret place, and kept to a cool and spare Diet; he must be far from the sight of great Houses, and no body must tell him of Guards, Halberds, Lackies, Gentlemen-Ushers, Grooms of the close-stool, <hi>&amp;c.</hi> no men<g ref="char:EOLhyphen"/>tion must be made in his hearing, of serene High<g ref="char:EOLhyphen"/>ness, most illustrious Lords and Ladies, nor of co<g ref="char:EOLhyphen"/>ordinate Senates, Protectors, Dukes, Earls, Mar<g ref="char:EOLhyphen"/>quesses and such like. And by all meanes, the Newes-monger generall, that tells lies every week for the safety of the Common-wealth, must be kept from him, who is wont in his weekly Pamphlets, to confer new titles of honours and to claw ambitious scabs.</p>
+            <p>Quest. <hi>What must then be done?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> When he is come a little to himself, let some body read to him with a sweet and still voice, the complaints of Kings and Princes wearied with the cares and miseries of a Crown, how some have said, that no man would take a Crown from the ground, that knew the sorrowes, cares and feares that attend the same; and how divers Kings wea<g ref="char:EOLhyphen"/>ried with the cares and miseries of a Crown, have left their Courts and Crowns to enjoy the Peace and quiet of a Cloister.</p>
+            <p>Quest. <hi>What must be then done?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> Read him some Chapters in <hi>Ecclesiastes,</hi> and the Parable of <hi>Jotham,</hi> in which all the Trees
+<pb n="12" facs="tcp:170497:10"/>refused to be King, for fear to loose their Essential goodness and usefulness; save the wretched and unprofitable bramble, void of goodness. And let all his friends of the several Congregations, be de<g ref="char:EOLhyphen"/>sired to pray for him, that God would open the eyes of his understanding, so as that he may plainly see the vanity of all ambitious Titles, Honours, and fantastical bawbles.</p>
+            <p>Qu. <hi>What must be done in the next place?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Then read him some of the Discourses of <hi>Epictetus</hi> and <hi>Seneca,</hi> shewing the folly and misery of ambition, pride, and covetousness, and that he is the onely true King that can govern his own pas<g ref="char:EOLhyphen"/>sions and affections, <gap reason="illegible" resp="#keyers" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> is not a slave to his own Lusts.</p>
+            <p>Qu. <hi>What further is necessary for the Cure of Ambition?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Cure must be concluded with the Story of that noble <hi>Roman,</hi> who being sent for by the Parliament of <hi>Rome,</hi> from his little Countrey house, to be Generall of the Common-wealths Army, came to <hi>Rome,</hi> went out against the Ene<g ref="char:EOLhyphen"/>mies, conquered them, and after his return, he would not be entreated to stay at <hi>Rome</hi> to enjoy vain Pomps and Honours, much lesse to usurp the supreme Authority, and by conquest of the Ene<g ref="char:EOLhyphen"/>mies to take advantage to conquer his Countrey; but leaving all the ambitious Titles, toyes and bawbles, to the great Boyes at <hi>Rome,</hi> he thought it
+<pb n="13" facs="tcp:170497:10"/>the wisest way to return to his Countrey-house a<g ref="char:EOLhyphen"/>gain, there to enjoy God and himself, and to grow old in Peace, Tranquility, and Health of Body and mind.</p>
+            <p>Qu. <hi>Is it possible the Parliament of</hi> Rome <hi>should send into the Countrey for a plain stout man to be Generall of the Common-wealths Army?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It must needs be possible, because they did so.</p>
+            <p>Q. <hi>Had they never a prety fine thing that loved to be called Lord, to employ upon that expedition, for the greater Repntation thereof?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They had or could have created such a fine thing; but they judged it more safe for the Com<g ref="char:EOLhyphen"/>mon-wealth, to employ a plain stout man, that was more wise, sober and stayd, then to value, foolish Titles, and ambitious fooleries.</p>
+            <p>Q. <hi>Are plain rational, sober blunt men that itch not after Lordships, the fittest to command the Forces of a Common-wealth?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> They are; and there is no trust to be given to any but such men, which made a wise man say many years agoe (when he was brought amongst the then cryed up Officers of the Army, upon a view of their temper, humour and beheaviour) to a friend of his, that he knew these men would ne<g ref="char:EOLhyphen"/>ver be steady to the Interest of the Common<g ref="char:EOLhyphen"/>wealth, nor do the Nation much good, because he saw they were ambitiously delighted in giving and
+<pb n="14" facs="tcp:170497:11"/>receiving Honours, and much addicted to vain com<g ref="char:EOLhyphen"/>plementing one with another, which made him say they were a company of silly Fellows.</p>
+            <p>Q. <hi>Will you say the Parliament had better to have employed any, though but a Lieutenant or Captain, or Serjeant in the Army, well beloved of the Souldiers, experienced and skilful in Military Affaires against Sir</hi> George Boothes <hi>Party as Commander in chief, then a prety fine Lord (Sir Reverence)?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will not say so, because I will not think my self wiser then the mannagers of supreme Autho<g ref="char:EOLhyphen"/>rity, they not being dissolved, but I know what I think: and by-standers may with ease see more into a game at some turns, then the players, espe<g ref="char:EOLhyphen"/>cially when their own over-solicitousness hinders them.</p>
+            <p>Q. <hi>You may as well say this Parliament did ill in employing O. C. so often as Commander in chief.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will not say so, but I know what I think, And I know it is a common weakness, when a man has done some exploit, to idolize him ever after, and to dream that no body can do like him, and to make him chief of every action, till by crying him up, we undo him and our selves both.</p>
+            <p>Q. <hi>Whence springs this strange weakness?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> From an excess of admiration and fear.</p>
+            <p>Q. <hi>Explain this by a similitude.</hi>
+            </p>
+            <pb n="15" facs="tcp:170497:11"/>
+            <p>
+               <hi>A.</hi> This is just as when a man has taken a fancy to a Woman, or a Woman to a man, admiration of what he imagines in her to give him content, and fear that he shall never meet with the like, makes him place all his happiness of that kind in this party, so that upon her death or denial, he many times destroyes himself. To be sure he pines, vexes himself, and dreames it impossible, there is any to be found like her. So is it when upon some late exploit, admiration fixes upon a Souldier or a Statesman, and they that govern begin to dream, and make others dream that none can do any thing but he, till by committing too great and frequent truths, they undo him and themselves.</p>
+            <p>Qu. <hi>Do you think then that if some other stout expert man, well beloved of the common Souldiers, had been employed in many expeditions where</hi> O.C. <hi>was Commander in chief, the success would have been the same.</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I do verily believe it.</p>
+            <p>Q. <hi>Why then was all the glory attributed to him of all Victories,</hi> &amp;c?</p>
+            <p>
+               <hi>A.</hi> Because men are weak in their judgements, and have a kind of natural, though sickly delight to make Idols, and then fall down and worship them, till they ruine their Idoll and themselves, and themselves by their Idol.</p>
+            <p>Q. <hi>What do you mean by a natural, but sickly delight?</hi>
+            </p>
+            <pb n="16" facs="tcp:170497:12"/>
+            <p>
+               <hi>A.</hi> I mean such a delight as Itchie people have to scratch, green-sickness Garles to eat coles and chalk, and those in a burning Fever, to drink cold drink.</p>
+            <p>Qu. <hi>It is strange there should be such a humour in men, I pray you make it clearer to me?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Mark but the Boyes, and Prentices of the younger sort, and such like, on a night of Tryumph, when Bone-fires are made in <hi>London</hi> streets. You shall see them march about the streets in a lasie Brigade, every one with his Broomstick on his neck, whooping and shouting, and making a rat<g ref="char:EOLhyphen"/>ling noise upon the Stalls. Yet is this Rabble ne<g ref="char:EOLhyphen"/>ver perfectly contented, till choosing one of the boldest and lightest knaves in the Rout (that may not sit too heavy) they hoyst him upon a woodden Horse, and carry him upon their shoulders, crying before him (and fencing to make way) with open mouth, <hi>a Lord, a Lord, a Lord,</hi> make way for my Lord. Have you not observed this humour in the Boyes? I know you have, and it is more or lesse, I conceive natural to all men, though more in some Nations then in others, and more in some persons then in others. As for example, this humour is high, and turgent in the <hi>French</hi> Nation, indifferent high in the <hi>Spaniard,</hi> low and flat in the <hi>Dutch, Switzer,</hi> and more refined <hi>English</hi> Common<g ref="char:EOLhyphen"/>wealths men.</p>
+            <pb n="17" facs="tcp:170497:12"/>
+            <p>Q. <hi>Whence should such a delight as this arise in mans Nature?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I conceive from a strong and natural incli<g ref="char:EOLhyphen"/>nation and impulse to reverence the Deity or su<g ref="char:EOLhyphen"/>preme Governor of the World, which being strong<g ref="char:EOLhyphen"/>ly effectual in mans Nature, for want of due consi<g ref="char:EOLhyphen"/>deration and information, is ready to seize on any Object through mistake; whence the <hi>Aegyptians</hi> made Lords of Cats, and Crocodiles and Garlick; and other Nations have made Lords and Ladies of Diseases, as the <hi>Romans</hi> of the Ague, <hi>&amp;c.</hi> and the privy parts of men, and of the close-stool, and the Cradles of children, and Women lying in Child<g ref="char:EOLhyphen"/>bed: so little wonder is it, that our small Boyes of <hi>London,</hi> make an Idol from among themselves, and our great Boyes of the Army have made, and will make Idols from among themselves, if God, the Parliament, their faithful Souldiers, and other free<g ref="char:EOLhyphen"/>born people of this Nation shall give way.</p>
+            <p>Q. <hi>How is this natural, but sickly delight, to be cured?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> By instilling the true and sound knowledge of the wisdom, power, goodness and prudence of God, and of the shallowness, weakness, malicious<g ref="char:EOLhyphen"/>ness of ill-taught mankind naturally; and so di<g ref="char:EOLhyphen"/>verting that adoration which is usually given to men, to God alone to whom onely it is due; by changing all Officers military and civil: Also by shewing the mischiefs that arise from idolizing any
+<pb n="18" facs="tcp:170497:13"/>man. By pressing the speech in Job, <hi>If I give flat<g ref="char:EOLhyphen"/>tering titles to man, my maker would destroy me,</hi> and that saying of our Saviour, that though <hi>the Ru<g ref="char:EOLhyphen"/>lers of the Gentiles were called gracious Lords, yet with Christians it should not be so.</hi> By shewing the <hi>unconveniencies and mischiefs that arise from Titles of Honour, and their inconsistency with a Common-wealth,</hi> which are here too long to tell.</p>
+            <p>Q. <hi>I will remember to question you about that an<g ref="char:EOLhyphen"/>other time, but I remember you gave out a word not long since, as if you thought the Parliament was not dissolved, are you of that mind?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Yes, and all uninteressed persons, at least many thousands besides my self, that love the good old cause.</p>
+            <p>Q. <hi>VVhy so?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because no body could dissolve them but themselves.</p>
+            <p>Q. <hi>Then all that take upon them to exercise su<g ref="char:EOLhyphen"/>preme Authority in these Nations before this Par<g ref="char:EOLhyphen"/>liament, by their own Act have dissolved themselves are Usurpers, Thieves and Robbers, that come in at the window and not at the door, will you say so?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> I will and do say so, and God has not bles<g ref="char:EOLhyphen"/>sed them, nor will never blesse them in their at<g ref="char:EOLhyphen"/>tempts.</p>
+            <pb n="19" facs="tcp:170497:13"/>
+            <p>Q. <hi>Tell me further how it appeares the Parlia<g ref="char:EOLhyphen"/>ment is not dissolved?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because nothing can be done without a suffi<g ref="char:EOLhyphen"/>cient cause: now there is no cause sufficient to dis<g ref="char:EOLhyphen"/>solve this present Parliament, but their own act. A man cannot be arrested by him that has no Autho<g ref="char:EOLhyphen"/>rity to arrest; he may be indeed kept prisoner il<g ref="char:EOLhyphen"/>legally. So the Parliament may be interrupted and hindered from sitting by ambition, as it might have been by a sudden Plague or Pestilence, but dissolv'd it cannot be, but by its own act. So the great Boyes of the Army may shut their Master out of the School (as is usual for School-boyes once a year) yet his Authority continues, and if he get not into his former School, he may summon his Scholars to another place.</p>
+            <p>Q. <hi>Does not omitting to adjourn from day to day, dissolve the Parliament?</hi>
+            </p>
+            <p>
+               <hi>Answ.</hi> For the Parliament to arise and not adjourn, might seem a dissolution of themselves, because they might be judged not to intend to meet again, because they named no place nor time of their next meeting, which is the intention of adjournment.</p>
+            <pb n="20" facs="tcp:170497:14"/>
+            <p>But now because the Parliament adjoutned when they last sate, and were coming to sit again, and so to adjourn from time to time, but were for<g ref="char:EOLhyphen"/>cibly hindred, their will expressed in this case is to be taken for their deed. And so we have our Par<g ref="char:EOLhyphen"/>liament in full Authority, and I doubt not, through the mercy of God to see them sit again, who have managed the affaires of this Common-wealth, with great wisdom and Majesty, and made this Nation more considerable throughout <hi>Europe,</hi> then ever it was in the memory of man; whereas in the dayes of the Protectorian usurpation, it began to grow contemptible, and in the rule of ambition will be utterly overthrown, if God be not the more merci<g ref="char:EOLhyphen"/>full to these poor Nations, by putting a stop to his folly.</p>
+            <p>Q. <hi>Did not the peoples choosing new Members, during the lawless Usurpation of</hi> Oliver <hi>and his son,</hi> (set up by Ambition) <hi>dissolve this Parliament?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>How so?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because they did not revoke their Trust given the present Parliament, onely seeing usurping <hi>O<g ref="char:EOLhyphen"/>liver</hi> had hindred their Parliament from sitting; rather then the name of Parliaments should die, and then upon their refusal, to choose new Mem<g ref="char:EOLhyphen"/>bers, that bold fool would have endeavoured a to<g ref="char:EOLhyphen"/>tall suppression of Parliaments, and rule avowedly by force and will, they were willing to elect persons
+<pb n="21" facs="tcp:170497:14"/>to keep that fundamental right on foot; which new Elections were all void upon the permission of their old Trustees to return.</p>
+            <p>Q. <hi>Make this clear by a similitude?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> The Company of Turkish Merchants choose out from among themselves a certain number of men, and send them into the Levant, to negotiate and mannage their affairs as a Councel. The great Turk upon some humour, will not (after some years of mannagement) suffer the said Councel to meet any more, but writes to the Company to send new Trustees, which the Company does, rather then their affaires shall run to wrack. But after a time, the Turk interrupts these last Trustees, and sets the other in their place, which the company hearing are glad, because they were their first Tru<g ref="char:EOLhyphen"/>stees, the best they could choose, and managed their business better then these latter, and they never re<g ref="char:EOLhyphen"/>called their trust, and so they are in as fit a capaci<g ref="char:EOLhyphen"/>ty to act as ever, and the company is willing they should act.</p>
+            <p>Q. <hi>Does not the Re-admission of this Parliament and submission to it, and acting according to their direction thereof so many Moneths, undo all that prejudice which might arise from other elections during their disturbance, and make good what was now said?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It does.</p>
+            <p>Q. <hi>Is there any other Legal Authority?</hi>
+            </p>
+            <pb n="22" facs="tcp:170497:15"/>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>Can any Legal future Authority be set up, but what is derived from their Authority, or set first on foot by them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> No.</p>
+            <p>Q. <hi>What are the sad effects of this Parliaments disturbance?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Danger to be ruled by the will and lust of Ambition, and of loosing the Authority of Parlia<g ref="char:EOLhyphen"/>mentary Counsels for ever, if their Honour and Sovereignty as to this interruption be not repai<g ref="char:EOLhyphen"/>red.</p>
+            <p>Q. <hi>What if we should loose Parliamentary Au<g ref="char:EOLhyphen"/>thority for ever?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> We and our Posterity should be slaves for ever, though our Lords at first would use us very gently, and make us their fellows; yet it would be in their power, or the power of their Successors, more cruel perhaps and worse natured, to put on our chains and fetters when they pleased, and set us to drugery or our posterity, and feed us with a bit and a knock.</p>
+            <p>Q. <hi>VVhy are not some religious people aware of this who slight Parliaments, and think we might do well without them?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> Because they are so passionately entranced with the goodness of some religious men (as they believe) that they would leave all to their discre<g ref="char:EOLhyphen"/>tion, never considering the sad event of their so do<g ref="char:EOLhyphen"/>ing,
+<pb n="23" facs="tcp:170497:15"/>nor how those that seem to be good now, may appear to be stark nought half a year hence; and how the temptation of unlimitednes corrupts good men, and and how though all be good to whose dis<g ref="char:EOLhyphen"/>cretion they now permit things; there is no assu<g ref="char:EOLhyphen"/>rance but bad men may arise in their stead, even out of their own bowels, who finding themselves not limited by a Legal Fundamental constitution, will use like slaves their Posterity, who will be bound to curse the credulity &amp; remissness of their Ancestors in this point.</p>
+            <p>Q. <hi>You seem to think that good and godly men ruling and doing righteous things, but not bound by any Fundamental constitution, the people over whom they so Rule are slaves, only they have godly Lords that are merciful, kind and pittiful to their slaves; Is this your sense?</hi>
+            </p>
+            <p>
+               <hi>A.</hi> It is.</p>
+            <p>Q. <hi>VVhy so?</hi>
+            </p>
+            <p>A. Because the godly Rulers supposed, have ab<g ref="char:EOLhyphen"/>solute unbounded power to do what they please, and it is of their meer grace, favour and courtesie, that they deal gently and not roughly with their slaves: and when they shall be provoked they will deal roughly, as is the nature of all unlimited Lords to do, even as it is the nature of fire to burn. And their Successors may prove worse natured, as new <hi>Pharaoh</hi> was more cruel and crafty then the old, and exercise their unlimited power to the ex<g ref="char:EOLhyphen"/>tream
+<pb n="24" facs="tcp:170497:16"/>sorrow and misery of their slaves, as we see new <hi>Pharaoh</hi> that knew not <hi>Joseph,</hi> did by the <hi>Is<g ref="char:EOLhyphen"/>raelites.</hi>
+            </p>
+            <p>Q. <hi>Do you then believe, that without our Fun<g ref="char:EOLhyphen"/>damental Laws be asserted, of which Free Parlia<g ref="char:EOLhyphen"/>mentary power is a principle, this Nation cannot be kept from slavery, be the Governours never so godly.</hi>
+            </p>
+            <p>A. I am clearly of that mind, and I think all rea<g ref="char:EOLhyphen"/>sonable persons unpassionated and not engaged, well weighing the premises, and what has been elsewhere said to the same intent, will be of the same mind with me.</p>
+            <p>Q. <hi>It is wonder the religiouser sorts of people some of them, who seem to be rational should not be so minded; VVhat may be the reason?</hi>
+            </p>
+            <p>A. Besides the reason aforesaid, they are many of them blinded by a desire and hope of some advan<g ref="char:EOLhyphen"/>tage they may get, if Ambition do rule without Laws and by the Sword.</p>
+            <p>Q. <hi>VVhat other reason conceive you they have?</hi>
+            </p>
+            <p>A. They are afraid of their being hindred to meet publickly to exercise their Religion, according to their perswasions.</p>
+            <p>Qu. <hi>Have they any reason to fear?</hi>
+            </p>
+            <p>A. No, but Ambition puts it in their heads.</p>
+            <p>Q. <hi>Had they not better run the hazard of some restriction as to their publick profession, then to make themselves and postereties slaves for fear thereof?</hi>
+            </p>
+            <p>A. Yes, especially since those they most confide
+<pb n="25" facs="tcp:170497:16"/>in cannot give them assurance, either of their will or power to give them that Liberty they seek. And the interest of Tyrants it is to suffer none but a State Religion.</p>
+            <p>Q. <hi>Can any man force conscience?</hi>
+            </p>
+            <p>A. No.</p>
+            <p>Qu. <hi>VVere not Religious people of several sorts more zealous towards God, and loving one to another before they had this liberty?</hi>
+            </p>
+            <p>A. Yes.</p>
+            <p>Q. <hi>VVhy then should they fear restriction, which is as the Bellowes that blows their zeal?</hi>
+            </p>
+            <p>A. I know not, unlesse desire of carnal ease pre<g ref="char:EOLhyphen"/>vaile too much in them, and to bear Office and come to preferment in the Common-wealth.</p>
+            <p>Q. <hi>If the Perliament is not dissolved, why do not the Members meet in some convenient place where they may sit free?</hi>
+            </p>
+            <p>A. To this I can say nothing. I am not of their Council. Only I fear, out of disdain and anger a<g ref="char:EOLhyphen"/>gainst the giddy sawciness of Ambition, they are willing to let him break his own neck, and ruine himself and his accomplices, the only thing to be expected from his heady and lawless courses.</p>
+            <p>Q. <hi>But is not the Parliament unkind to the Na<g ref="char:EOLhyphen"/>tion in the mean while?</hi>
+            </p>
+            <p>A, Truly I cannot well tell how to acquit them in that particular.</p>
+            <p>Q. <hi>Has not the late Scots King, and the</hi> Spa<g ref="char:EOLhyphen"/>niard,
+<pb n="26" facs="tcp:170497:17"/>
+               <hi>at whose Court he is said to be soliciting for help, a mighty advantage by the present actings of Ambition?</hi>
+            </p>
+            <p>A. Without doubt.</p>
+            <p>Q. <hi>VVhat will Ambition do think you if he should come in?</hi>
+            </p>
+            <p>A. Secretly joyn issue with him, as the late <hi>Oli<g ref="char:EOLhyphen"/>ver</hi> sometimes did with his Father and at last be<g ref="char:EOLhyphen"/>tray him.</p>
+            <p>Q. <hi>The time being to for spent to proceed to any further questions, Rehearse the Prayer which I taught you for these troublesome times, and so con<g ref="char:EOLhyphen"/>clude?</hi>
+            </p>
+            <p>A. <hi>How long O Lord holy and true, wilt thou not be avenged on Ambition? Pul off his jugling and inchanting Cloak, discover all his crafts, bring to nought the Counsel of his</hi> Achitophels, <hi>and re<g ref="char:EOLhyphen"/>store our honourable Parliament to the full and free exercise of their just Authority, that these confu<g ref="char:EOLhyphen"/>sed and impoverished Nations, may by thy wonted blessing upon their grave Counsels, be at last establi<g ref="char:EOLhyphen"/>shed, in peace and plenty, and a free exercise of all due Liberty belonging to Englishmen and Christi<g ref="char:EOLhyphen"/>ans,</hi> Amen.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
